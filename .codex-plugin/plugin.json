@@ -1,0 +1,34 @@
+{
+  "name": "coodle-moodle53agentskills",
+  "version": "1.0.0",
+  "description": "Moodle 5.3 (LTS) development skills distilled from the official moodledev.io documentation: plugin development, core APIs, coding style, and testing",
+  "author": {
+    "name": "Lucas Catalan",
+    "email": "catalan.munoz.l@gmail.com"
+  },
+  "homepage": "https://moodledev.io/docs/5.3",
+  "license": "GPL-3.0-or-later",
+  "keywords": [
+    "moodle",
+    "php",
+    "plugin-development",
+    "lms",
+    "skills"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Moodle 5.3 Agent Skills",
+    "shortDescription": "Moodle 5.3 plugin development, core APIs, coding style, and testing skills",
+    "longDescription": "Teaches coding agents how to develop for Moodle 5.3 (LTS) using content distilled from the official moodledev.io documentation and the core upgrade notes: plugin anatomy for every plugin type, core API references (database, forms, output, routing, web services, React, and more), a 4.5 to 5.3 migration guide, the official coding style, and PHPUnit/Behat/CI workflows.",
+    "developerName": "Lucas Catalan",
+    "category": "Developer Tools",
+    "capabilities": [
+      "Read"
+    ],
+    "defaultPrompt": [
+      "Create a new Moodle 5.3 activity module plugin.",
+      "Upgrade my Moodle 4.5 plugin to Moodle 5.3."
+    ],
+    "websiteURL": "https://moodledev.io/docs/5.3"
+  }
+}

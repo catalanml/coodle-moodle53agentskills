@@ -1,0 +1,20 @@
+{
+  "name": "coodle53",
+  "description": "Marketplace for coodle-moodle53agentskills - Moodle 5.3 development skills for coding agents",
+  "owner": {
+    "name": "Lucas Catalan",
+    "email": "catalan.munoz.l@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "coodle-moodle53agentskills",
+      "description": "Moodle 5.3 (LTS) development skills distilled from the official moodledev.io documentation: plugin development, core APIs, coding style, and testing",
+      "version": "1.0.0",
+      "source": "./",
+      "author": {
+        "name": "Lucas Catalan",
+        "email": "catalan.munoz.l@gmail.com"
+      }
+    }
+  ]
+}
